@@ -1,0 +1,58 @@
+/* css du logo */
+    header
+{
+height:100%;
+text-align: center;
+margin-left:0px;
+font-family: algerian;
+font-size:100%;
+background: royalblue;	
+}
+		footer
+		{
+		background: royalblue;	
+		}		
+		nav
+		{
+			height: 100px;
+		}
+
+		nav li
+		{
+			
+			width:20%;
+
+
+		}
+
+		nav ul
+		{
+			margin-top: 0px;
+            display: inline-block;
+		}
+
+		nav ul li
+		{
+			background:royalblue;
+			padding-top:15px;
+			border :outset;
+			border-radius: 20px white;;
+			height:50px;
+			margin-top: 20px;
+			
+			transition:0,5s all;
+		}
+		nav ul li a 
+		{
+			width:90%;
+			color:royalblue;
+			text-decoration:none;
+			font-size:95%;
+            
+            text-align: center;
+		}
+    
+    
+    
+    
+    

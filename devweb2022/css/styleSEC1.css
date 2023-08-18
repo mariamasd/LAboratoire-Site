@@ -1,0 +1,22 @@
+/*header nav ul li{
+    float:right;
+    display: inline-block;
+    text-decoration: none;
+text-transform: uppercase;
+}
+body
+{
+background-image: url("image/backgr.jpeg");
+}*/
+/* Template 1 style */
+#template-bg-1 {
+	background-image: url('image/logoo.jpeg');
+}
+/* Template 1 media queries begins */
+@media screen and (min-width:300px) and (max-width: 400px) {
+	.container {
+		width: 100% !important;
+		display: initial;
+	}
+}
+
